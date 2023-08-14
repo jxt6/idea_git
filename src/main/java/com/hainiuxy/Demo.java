@@ -10,6 +10,8 @@ public class Demo {
         System.out.println("start");
 
 
+        System.out.println("hello");
+
         System.out.println("debug");
     }
 }
