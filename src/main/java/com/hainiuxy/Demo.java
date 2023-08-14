@@ -5,4 +5,8 @@ public class Demo {
         System.out.println("hello " + message);
         return "Hello, " + message;
     }
+
+    public void start(){
+        System.out.println("start");
+    }
 }
